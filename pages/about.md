@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+thumbnail: /images/uploads/purple-flowers.jpg
 ---
 User Experience Designer
 
