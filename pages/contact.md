@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Contact
-id: contact
 ---
+**User Experience Designer:** Mohamed Mohammed 
 
-This is my contact page!!!!
+**Contact:** (647) - 308 - 6512
+
+**Email:** Mohamedmohammedsal@gmail.com
