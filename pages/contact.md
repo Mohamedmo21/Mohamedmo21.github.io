@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+id: contact
 ---
 **User Experience Designer:** Mohamed Mohammed 
 
