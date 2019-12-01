@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Logo Creating '
+title: Graphics
 date: '2019-11-28 17:57:50'
 thumbnail: /images/uploads/dental-walk-in-logo-.png
 ---
