@@ -80,16 +80,16 @@
                     {% assign posts = site.posts | where_exp:"post","post.url != current.url" %}
                     {% for post in posts limit:3 offset:offset %}
                         <div class="col-md-4">
-                          <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
-				  <div class="card-header">{{ post.title }}</div>
-				  <div class="card-body">
-					  <a herf="{{ post.url }}">
-						  {% if post.preview %}
-						  	<img src="{{ post.preview }}" alt="{{ post.title }}" />
-						  {% endif %}
+                         	<div class="card text-white bg-primary mb-3">
+					<div class="card-header">{{ post.title }}</div>
+					<div class="card-body">
+						<a herf="{{ post.url }}#work">
+							{% if post.thumbnail %}
+								<img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
+						  		{% endif %}
 					  </a>
-				  </div>
-				</div>
+				      </div>
+				    </div>
 				
                         </div>
                     {% endfor %}
