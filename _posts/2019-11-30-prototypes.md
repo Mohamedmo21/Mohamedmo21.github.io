@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prototypes
-date: '2019-11-30 23:42:46'
+date: '2019-12-02 23:42:46'
 thumbnail: /images/uploads/2019-11-30-5-.png
 myangle: >-
   I used the application Microsoft Publisher to imitate a web page using hyper
