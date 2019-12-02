@@ -3,8 +3,8 @@ layout: default
 title: Contact
 id: contact
 ---
-**User Experience Designer:** Mohamed Mohammed 
+<b>User Experience Designer:</b> Mohamed Mohammed 
 
-**Contact:** (647) - 308 - 6512
+<b>Contact:</b> (647) - 308 - 6512
 
-**Email:** Mohamedmohammedsal@gmail.com
+<b>Email:</b> Mohamedmohammedsal@gmail.com
