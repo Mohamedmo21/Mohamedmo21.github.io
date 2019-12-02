@@ -8,5 +8,8 @@ myangle: >-
   links. It allowed users to flow through a cite by following instructions to
   determine if it is useful to be created. It helped users understand basic
   research methods in order to collect data on various topics or design tests.
+
+
+  <br><br><br>
 ---
 In our first year we were asked to create a product through the entire semester alone. From conducting research to designing templates everything had to be done in an organized fashion. The idea I presented was a website allowing for users to connect with each other over user centered design.
