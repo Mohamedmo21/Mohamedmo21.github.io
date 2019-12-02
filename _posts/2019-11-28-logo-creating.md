@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Graphics
-date: '2019-11-28 17:57:50'
+date: '2019-12-02 14:29:00'
 thumbnail: /images/uploads/dental-walk-in-logo-.png
 myangle: >-
   I used the application Affinity Designer to create this logo. The client is a
